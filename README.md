@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GoldRbxia12
+- 👀 I’m a Programmer
+- 🌱 I’m currently learning C#
