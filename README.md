@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @GoldRbxia12
 - 👀 I’m a Programmer
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Ts
+- 🌐 https://golddev.xyz
