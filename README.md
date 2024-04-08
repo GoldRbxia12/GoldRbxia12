@@ -2,3 +2,4 @@
 - 👀 I’m a Programmer
 - 🌱 I’m currently learning Ts
 - 🌐 https://golddev.xyz
+- 💿 Discord: goldrbxia
