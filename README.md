@@ -3,8 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldrbxia12&label=Profile%20views&color=0e75b6&style=flat" alt="goldrbxia12" /> </p>
 
-- 🌱 I’m currently learning **ExpressJs**
-
+- 🥇 Vue/React, Javascript
+- 🌱 Currently learning **ExpressJs**
+  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/goldrbxia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goldrbxia" height="30" width="40" /></a>
@@ -14,7 +16,6 @@
 </p>
 
 <h3 align="left">Languages and Tools</h3>
-<h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
