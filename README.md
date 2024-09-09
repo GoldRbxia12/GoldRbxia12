@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Gold</h1>
 <h3 align="center">A full-stack developer from UAE 🇦🇪</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goldrbxia12&label=Profile%20views&color=0e75b6&style=flat" alt="goldrbxia12" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=goldrbxia12&label=Profile%20views&color=0e75b6&style=flat" alt="goldrbxia12" /> </p>
 
 
 <div align="center">
