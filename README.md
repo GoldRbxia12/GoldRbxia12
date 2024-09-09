@@ -16,6 +16,7 @@
 <a href="https://discord.gg/https://discord.com/users/1079394780292849714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1079394780292849714" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -44,6 +45,15 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+## 📈 My GitHub stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=GoldRbxia12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="goldrbxia's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoldRbxia12&theme=tokyonight&hide_border=true" alt="goldrbxia's Streak" height="165">
+  </p>
+</div>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/goldrbxia"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/goldrbxia" /></a></p><br><br>
