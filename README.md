@@ -50,8 +50,8 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GoldRbxia12&theme=gruvbox&show_icons=true&hide_border=true" alt="goldrbxia's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoldRbxia12&theme=gruvbox&hide_border=true" alt="goldrbxia's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=GoldRbxia12&theme=gruvbox&show_icons=true&hide_border=false" alt="goldrbxia's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoldRbxia12&theme=gruvbox&hide_border=false" alt="goldrbxia's Streak" height="165">
   </p>
 </div>
 
