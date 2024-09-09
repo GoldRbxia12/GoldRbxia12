@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldrbxia12&label=Profile%20views&color=0e75b6&style=flat" alt="goldrbxia12" /> </p>
 
-<p align="left">
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/1079394780292849714?waveColor=000000&waveSpotifyColor=202020&gradient=#000000)](https://discord.com/users/1079394780292849714)
-
-</p>
+<div align="center">
+<h3>Discord Activity</h3>
+   <a href="https://discord.com/users/1079394780292849714" target="_blank">
+      <img src="https://lanyard.kyrie25.me/api/1079394780292849714?waveColor=000000&waveSpotifyColor=202020&gradient=#000000&borderRadius=31px">
+   </a>
+</div>
 
 
 ## Skills
