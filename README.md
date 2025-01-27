@@ -7,7 +7,7 @@
 <div align="center">
 <h3>Discord Activity</h3>
    <a href="https://discord.com/users/1079394780292849714" target="_blank">
-      <img src="https://cdn.nest.rip/uploads/c37cb24d-cbd6-4a9e-8889-acc0bc52a56f.svg">
+      <img src="https://lanyard.kyrie25.me/api/1079394780292849714?waveColor=000000&waveSpotifyColor=202020&gradient=#000000&borderRadius=31px">
    </a>
 </div>
 
@@ -72,6 +72,6 @@
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=GoldRbxia12&theme=gruvbox&show_icons=true&hide_border=false" alt="goldrbxia's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoldRbxia12&theme=gruvbox&hide_border=false" alt="goldrbxia's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldRbxia12&layout=compact&theme=gruvbox&show_icons=true&hide_border=false" alt="goldrbxia's Streak" height="165">
   </p>
 </div>
