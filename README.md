@@ -72,6 +72,6 @@
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=GoldRbxia12&theme=gruvbox&show_icons=true&hide_border=false" alt="goldrbxia's Stats" height="165">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldRbxia12&layout=compact&theme=gruvbox&show_icons=true&hide_border=false" alt="goldrbxia's Streak" height="165">
+  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldRbxia12&layout=compact&theme=gruvbox&show_icons=true&hide_border=false" alt="goldrbxia's Streak" height="165"> -->
   </p>
 </div>
